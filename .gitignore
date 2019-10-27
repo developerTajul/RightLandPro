@@ -7,9 +7,9 @@
 /wp-content/uploads
 /wp-content/upgrade
 /wp-content/*.*
-!torun/
-!torun-child/
-!bdevs-toolkit/
-!bdevs-elementor/
+!rightlandpro/
+!rightlandpro-child/
+!ta-toolkit/
+!ta-elementor/
 !duplicate-page/
 !regenerate-thumbnails/
